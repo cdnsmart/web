@@ -1,4 +1,62 @@
 #EXTM3U
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/7/lm/246003/logo.png",Spor Smart
+http://161.118.166.5/Dsmart.php?ID=246003
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/D/qo/246015/logo.png",DiziSmart Max
+http://161.118.166.5/Dsmart.php?ID=246015
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/a/-p/245931/logo.png",Kanal D
+http://161.118.166.5/Dsmart.php?ID=245931
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/B/WE/245991/logo.png",TV2
+http://161.118.166.5/Dsmart.php?ID=245991
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/X/rT/245949/logo.png",Show TV
+http://161.118.166.5/Dsmart.php?ID=245949
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/Y/Sk/245994/logo.png",STAR
+http://161.118.166.5/Dsmart.php?ID=245994
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/S/Js/246030/logo.png",ATV
+http://161.118.166.5/Dsmart.php?ID=246030
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/S/tg/245943/logo.png",TRT 1
+http://161.118.166.5/Dsmart.php?ID=245943
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/E/ON/246138/logo.png",Kanal 7
+http://161.118.166.5/Dsmart.php?ID=246138
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/M/NO/246132/logo.png",TV8
+http://161.118.166.5/Dsmart.php?ID=246132
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/U/w2/245997/logo.png",NOW
+http://161.118.166.5/Dsmart.php?ID=245997
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/U/Cg/245940/logo.png",CNN Türk
+http://161.118.166.5/Dsmart.php?ID=245940
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/A/Bt/246120/logo.png",NTV
+http://161.118.166.5/Dsmart.php?ID=246120
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/c/Bc/246024/logo.png",TRT Haber
+http://161.118.166.5/Dsmart.php?ID=246024
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/7/RQ/246027/logo.png",Haber Türk
+http://161.118.166.5/Dsmart.php?ID=246027
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/j/bb/246126/logo.png",24
+http://161.118.166.5/Dsmart.php?ID=246126
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/U/Wm/246069/logo.png",TLC
+http://161.118.166.5/Dsmart.php?ID=246069
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/z/s0/246105/logo.png",Beyaz TV
+http://161.118.166.5/Dsmart.php?ID=246105
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/J/B7/246144/logo.png",Haber Global
+http://161.118.166.5/Dsmart.php?ID=246144
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/X/r2/246066/logo.png",TGRT Haber
+http://161.118.166.5/Dsmart.php?ID=246066
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/K/IY/245961/logo.png",DMAX
+http://161.118.166.5/Dsmart.php?ID=245961
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/b/0t/246108/logo.png",Tay TV
+http://161.118.166.5/Dsmart.php?ID=246108
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/X/p9/394506/logo.png",HT Spor
+http://161.118.166.5/Dsmart.php?ID=394506
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/T/Rx/246135/logo.png",A Spor
+http://161.118.166.5/Dsmart.php?ID=246135
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/K/_x/245946/logo.png",TRT Spor
+http://161.118.166.5/Dsmart.php?ID=245946
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/G/YE/246177/logo.png",Trt Spor Yıldız
+http://161.118.166.5/Dsmart.php?ID=246177
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/L/kO/246240/logo.png",SZC TV
+http://161.118.166.5/Dsmart.php?ID=246240
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/v/Ri/246039/logo.png",TRT 2
+http://161.118.166.5/Dsmart.php?ID=246039
+#EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/F/zn/246096/logo.png",Halk TV
+http://161.118.166.5/Dsmart.php?ID=246096
 #EXTINF:-1 group-title="GinikoTV" tvg-logo="https://www.giniko.com/logos/190x110/2.jpg",Al Jazeera (English)
 http://161.118.166.5/Giniko.php?ID=2
 #EXTINF:-1 group-title="GinikoTV" tvg-logo="https://www.giniko.com/logos/190x110/3.png",Saudi TV 1
