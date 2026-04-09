@@ -4,7 +4,7 @@
 http://smart.cdn-sports.workers.dev/taraftarium.m3u8
 #EXTINF:-1 group-title="Taraftarium" tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png",beIN SPORTS HD1
 #EXTVLCOPT:http-referrer=https://taraftarium.xyz/
-http://smart.cdn-sports.workers.dev/patron.m3u8.m3u8
+http://smart.cdn-sports.workers.dev/patron.m3u8
 #EXTINF:-1 group-title="Taraftarium" tvg-logo="https://digiturkairtv.com/images/channels/beINSPORTSHD1.png",beIN SPORTS HD1
 #EXTVLCOPT:http-referrer=https://taraftarium.xyz/
 http://smart.cdn-sports.workers.dev/zirve.m3u8
