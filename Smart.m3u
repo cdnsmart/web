@@ -3441,6 +3441,24 @@ http://161.118.166.5/Dsmart.php?ID=246240
 http://161.118.166.5/Dsmart.php?ID=246039
 #EXTINF:-1 group-title="Dsmart"  tvg-logo="https://zdi2vdd5r0wt.merlincdn.net/content/F/zn/246096/logo.png",Halk TV
 http://161.118.166.5/Dsmart.php?ID=246096
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",ATV
+http://129.151.204.207/ATVGroup.php?ID=atv
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.googleusercontent.com/KAQlS_5itOk34t-_i9jQH_06bDTDI4ALTJZW37at1bYIOFJRMx23XYfBldJ7ecNq-XuWCfKi5g",ATV Avrupa
+http://129.151.204.207/ATVGroup.php?ID=atvavrupa
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.googleusercontent.com/RZG-XV8AGd-_HWnGIVJtSNurIjUJxtZrb06jwRrrWt1BTTRChGOdz75ATZqaPlS0zQitJdI8Rg",a2
+http://129.151.204.207/ATVGroup.php?ID=a2
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o",Minika COCUK
+http://129.151.204.207/ATVGroup.php?ID=minikacocuk
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.googleusercontent.com/6Ci6NdBP5dl_pY3TLFxWa6NdSm9IsG182yNUE5qmOKFiQLPscSkRyerA4AWgI2h9IFpFXN82uA",Minika GO
+http://129.151.204.207/ATVGroup.php?ID=minikago
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.ggpht.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE",AHABER
+http://129.151.204.207/ATVGroup.php?ID=ahaber
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.ggpht.com/XJtyMUH7ikXxeg2nrhjVb0k9LbpdqimTV9QawOxlQipdDFYe0cy6kdFZeFqzpeqPCyOkJCMM_w",APARA
+http://129.151.204.207/ATVGroup.php?ID=apara
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.ggpht.com/6NEH0h3dFrnG36dk8lHHfocRKiz2GqiM0pzd-UeIvj_B-25aGYsB1sUUZodoD9JCgVpRt-hDGUM",ANEWS
+http://129.151.204.207/ATVGroup.php?ID=anews
+#EXTINF:-1 group-title="ATV Ailesi" tvg-logo="http://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8",ASPOR
+http://129.151.204.207/ATVGroup.php?ID=aspor
 #EXTINF:-1 group-title="GinikoTV" tvg-logo="https://www.giniko.com/logos/190x110/2.jpg",Al Jazeera (English)
 http://161.118.166.5/Giniko.php?ID=2
 #EXTINF:-1 group-title="GinikoTV" tvg-logo="https://www.giniko.com/logos/190x110/3.png",Saudi TV 1
